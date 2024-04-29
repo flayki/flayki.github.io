@@ -4,14 +4,33 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
+    padding: 20px;
+    background: color #333;;
 }
 
 .imagen {
     width: 200px;
     height: 250px;
-    margin-bottom: 0px; /* Ajusta el margen según necesites */
+    margin-bottom: 0px; 
 }
 
 h1 {
-    margin-top: 20px; /* Ajusta el margen según necesites */
+    margin-top: 20px; 
+}
+
+a:link {
+    color:black ;
+
+}
+
+a:visited {
+    color:purple ;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: gold;
 }
