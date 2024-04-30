@@ -4,9 +4,6 @@
     box-sizing: border-box;
 }
 
-html{
-    font-size: ;
-}
 .container{
     height: 10vh;
     width: 100%;
@@ -122,6 +119,7 @@ header{
 .contenedor p{
     margin-top: 30px;
     font-size:medium;
+    
 }
 
 .contenedor ul{
