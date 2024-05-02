@@ -9,6 +9,7 @@
     width: 100%;
     background-color: grey;
     position: relative;
+    margin-top: 10px;
 }
 
 body {
@@ -17,6 +18,9 @@ body {
     font-size: Arial, sans-serif;
     background-color: black;
     color: white;
+    margin-top: 0px;
+    margin-left:0px;
+    
 }
 
 ul li{
@@ -128,4 +132,6 @@ ul li:hover{
     cursor:pointer
 }
 
-
+p{
+    background-color: grey;
+}
